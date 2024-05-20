@@ -1,0 +1,14 @@
+==========================================================================================
+
+Description of files in this folder
+
+==========================================================================================
+
+1_theprint_farm laws
+This notebook contains sample web crawling code. The code for collecting links to articles on a particular topic is given in this file. Links to articles published by ThePrint on farm laws are obtained and stored in a text file.
+
+2_theprint
+This notebook also contains sample web crawling code. In this notebook, the links to articles published by The Print on all the six selected topics are used to get the article text. These articles are added to a dataframe and saved.
+
+3_theprint_data cleaning
+This notebook contains sample data cleaning code. Some of the unnecessary text that appears in articles published by ThePrint are removed in this notebook.
